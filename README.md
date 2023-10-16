@@ -2,7 +2,6 @@
 This is a general handbook on game dev as a community of volunteers and the common challenges and pitfalls.
 
 ## Introduction
-This is a general handbook on game dev as a community of volunteers and the common challenges and pitfalls.
 In game dev, throwing more devs and money at a project does not necessarily yield fun or good gameplay. It also doesn’t always make the development process faster. Notch made Minecraft Alpha alone. Stardew Valley also was made by a single dev. Cubeworld was made by a dude and his wife. Valheim only a team of 5. 
 It’s a learning journey and the only requirements are being interested in this project and having the will to contribute. That’s it. 
 
