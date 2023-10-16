@@ -68,4 +68,4 @@ It’s a learning journey and the only requirements are being interested in this
 - Game rewrite for multiplayer
 - Optimize for performance if required
 - QA testing
-- Listen to community proposal
+- Implement potential community feature requests
