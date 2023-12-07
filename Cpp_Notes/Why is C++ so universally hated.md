@@ -24,7 +24,7 @@ Arguably the worse part of C++. Being such a powerful language that can basicall
 
 ## Part 4: Building C++
 
-This tends to apply to a lot of older compiled languages. Basically C++ doesn't automagically builds once you're done. How does the compiler knows what goes where? How does it know you have libraries to link? Well it doesn't. If you are a masochist you'd write a stupid long command to instruct it to compile but that's super unreliable and you'll probably suffer mentally after sever hundreds of compiles. 
+This tends to apply to a lot of older compiled languages. Basically C++ doesn't automagically builds once you're done. How does the compiler knows what goes where? How does it know you have libraries to link? Well it doesn't. If you are a masochist you'd write a stupid long command to instruct it to compile but that's super unreliable and you'll probably suffer mentally after several hundreds of compiles. 
 
 Instead there are intermediate tools that instruct the compiler to do the thing you want it to do. The problem is that everyone have their own sauce. Some use scripting. Some are proprietary and then there's CMake. Oh CMake... If you thought you had enough on your plate you also have to learn to how to script a project build?! Yes you heard it right. 
 
